@@ -1,0 +1,21 @@
+{
+    "name": "dracon55/yii2-edit-area",
+    "description": "Plug-in for addition on the website of the edited area in the form of the visual editor",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","plugin","administrator","visual editor"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Makhov Aleksandr",
+            "email": "wm_m@mail.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "dracon55\\editArea\\": ""
+        }
+    }
+}
